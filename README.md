@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sparsh Chadha</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparsh011" alt="sparsh011" /></a> </p>
 
 - 🔭 I’m currently working on [Recipes App](https://github.com/Sparsh011/Recipes)
 
