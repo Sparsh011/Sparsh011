@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 
-- 🔭 I’m currently working on [Recipes App](https://github.com/Sparsh011/Recipes)
-
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sparsh011?tab=repositories](https://github.com/Sparsh011?tab=repositories)
