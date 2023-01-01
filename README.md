@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Sparsh011?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/Sparsh011?tab=repositories)
 
 - 📫 How to reach me **sparsh.chadha46@gmail.com**
 
