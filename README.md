@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sparsh Chadha</h1>
-<h3 align="center">An Android Developer</h3>
+<h3 align="center">An App Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 
-- 🌱 I’m currently learning **Android Development and Flutter**
+- 🌱 I’m currently learning **Android and iOS Development**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Sparsh011?tab=repositories)
 
